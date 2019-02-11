@@ -68,7 +68,7 @@ Push method inserts data into the list.
 ##### Usage
 ```
 dl.Push(5) 
-// dl.Read() = [5]
+// dl.ReadLIFO() = [5]
 
 or
 
